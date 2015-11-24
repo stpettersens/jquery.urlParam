@@ -1,0 +1,24 @@
+{
+  "name": "jquery.urlParam",
+  "authors": [
+    "Sam Saint-Pettersen <s.stpettersen+github@gmail.com> (package)",
+    "Gazoris <http://stackoverflow.com/users/2601258/gazoris> (script)"
+  ],
+  "description": "Get URL parameters via JQuery.",
+  "main": "jquery-urlparam.min.js",
+  "moduleType": [],
+  "keywords": [
+    "jquery",
+    "url",
+    "parameters"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/stpettersens/jquery.urlParam",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
